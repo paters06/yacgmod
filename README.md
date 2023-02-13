@@ -1,2 +1,2 @@
-# yacvor
-Yet Another C++ Voronoi code
+# yacgmod
+Yet Another C++ Computational Geometry Module
